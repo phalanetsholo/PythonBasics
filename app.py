@@ -5,5 +5,9 @@ name = "Tsholo"
 print(name)
 
 
-name = input("What is your name?  ")
+first_name = input("What is your name?  ")
 age = input("How old are you? ")
+
+print("Hey " + name)
+
+print("Are you" + age + "?")
